@@ -27,5 +27,9 @@ Muchas gracias y que sea leve el estudio :D
 
 - Tema 2 subido hasta factores integrantes.
 
+17-02-2020
+
+- Fin del tema 2.
+
 
 
